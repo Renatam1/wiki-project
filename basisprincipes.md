@@ -9,3 +9,5 @@ Gezichtsverzorging begint met een paar essentiële stappen die helpen om je huid
 4. **Zonbescherming** – Voorkomt vroegtijdige huidveroudering en schade.  
 
 Door deze stappen dagelijks te volgen, bouw je een sterke huidverzorgingsroutine op!  
+
+Dit is een nieuwe toevoeging aan het verhaal, geschreven in de update-verhaal branch.
